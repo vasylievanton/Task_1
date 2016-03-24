@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_text">Відкритий люк</string>
+    <string name="status">В роботі</string>
+    <string name="description">Открытый люк (возле рекламного щита), район поворота 18 и 19 трамваев на проспект Мира с Донецкого шоссе</string>
+    <string name="section">Розділ:</string>
+    <string name="create">Створено:</string>
+    <string name="create_text">25 Лютого 2016</string>
+    <string name="registered">Зареєстровано:</string>
+    <string name="registered_text">26 Лютого 2016</string>
+    <string name="deadline">Вирішити до:</string>
+    <string name="deadline_text">29 Лютого 2016</string>
+    <string name="executor">Відповідальний:</string>
+    <string name="executor_text">Дніпропетровський МВК()</string>
+</resources>
