@@ -8,6 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="drawerTextStyle" parent="Base.TextAppearance.AppCompat">
+        <item name="android:textColor">@color/text_color_main</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
@@ -35,11 +41,16 @@
         <item name="android:gravity">left</item>
     </style>
 
-
     <style name="statusCardStyle">
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="cardBackgroundColor">?attr/colorAccent</item>
+        <item name="cardCornerRadius">7dp</item>
+        <item name="cardElevation">2dp</item>
+    </style>
+
+    <style name="listCardStyle">
+        <item name="cardBackgroundColor">?attr/actionBarItemBackground</item>
         <item name="cardCornerRadius">7dp</item>
         <item name="cardElevation">2dp</item>
     </style>
@@ -53,6 +64,7 @@
         <item name="android:textColor">@android:color/white</item>
         <item name="android:textSize">16sp</item>
     </style>
+
     <style name="linearLayoutStyle">
         <item name="android:gravity">center_horizontal</item>
         <item name="android:layout_height">wrap_content</item>
@@ -61,6 +73,5 @@
         <item name="android:layout_marginTop">@dimen/margin_layout</item>
         <item name="android:orientation">horizontal</item>
     </style>
-
 
 </resources>

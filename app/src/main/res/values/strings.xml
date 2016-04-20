@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Task_1</string>
+    <string name="app_name">Task_2</string>
+    <string name="it_ruh_dnipro"><a href="http://www.itruh.dp.ua/">IT Ruh Dnipro</a></string>
+    <string name="yalantis"><a href="https://yalantis.com/">Yalantis</a></string>
     <string name="action_settings">Налаштування</string>
     <string name="title">CE-1257218</string>
     <string name="main_text">Відкритий люк</string>
@@ -15,4 +17,18 @@
     <string name="deadline_text">29 Лютого 2016</string>
     <string name="executor">Відповідальний:</string>
     <string name="executor_text">Дніпропетровський МВК()</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="all_appeals">Всі звернення</string>
+    <string name="on_map_appeals">Звернення на мапі</string>
+    <string name="sign_in">Увійти в аккаунт</string>
+    <string name="made_with_love">Зроблено з любов\'ю</string>
+    <string name="and">та</string>
+    <string name="menu_item_sort">Сортувати</string>
+    <string name="title_activity_main">e-contact</string>
+    <string name="press_again_to_exit">Натисніть ще раз, щоб вийти</string>
+    <string name="at_work">В роботі</string>
+    <string name="done">Виконано</string>
+    <string name="pending_execution">Очікує</string>
 </resources>
